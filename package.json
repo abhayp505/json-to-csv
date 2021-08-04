@@ -1,0 +1,20 @@
+{
+  "name": "json2csv",
+  "version": "0.1.0",
+  "description": "Framework to conver input json file to desired output csv",
+  "main": "index.js",
+  "author": "Abhay",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "0.21.1",
+    "babel-jest": "27.0.6",
+    "cheerio": "^1.0.0-rc.10",
+    "csv-parser": "^3.0.0",
+    "json2csv": "^5.0.6",
+    "xlsx": "^0.17.0",
+    "xml2js": "0.4.23",
+    "yargs": "^17.0.1"
+  }
+}

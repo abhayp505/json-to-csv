@@ -1,0 +1,54 @@
+ {
+    "dataset": {
+        "carModel": {
+            "drivemode": "automatic",
+            "airbags": 4,
+            "backcamera": "present"
+        },
+        "price": {
+            "automatic": 30000,
+            "manual": 25000,
+            "tax": 18
+        },
+    "colors": ["blue","green","yellow"]
+  }, 
+  "dataset2": {
+    "carModel": {
+        "drivemode": "automatic",
+        "airbags": 4,
+        "backcamera": "present"
+    },
+    "price": {
+        "automatic": 30000,
+        "manual": 25000,
+        "tax": 18
+    },
+    "colors": ["blue","green","yellow"]
+},
+  "dataset3": {
+    "carModel": {
+        "drivemode": "automatic",
+        "airbags": 4,
+        "backcamera": "present"
+    },
+    "price": {
+        "automatic": 30000,
+        "manual": 25000,
+        "tax": 18
+    },
+    "colors": ["blue","green","yellow"]
+},
+  "dataset4": {
+    "carModel": {
+        "drivemode": "automatic",
+        "airbags": 4,
+        "backcamera": "present"
+    },
+    "price": {
+        "automatic": 30000,
+        "manual": 25000,
+        "tax": 18
+    },
+    "colors": ["black","white","red"]
+  }
+}
